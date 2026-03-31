@@ -31,4 +31,4 @@ The output JAR will be at `build/libs/modid-1.0.0.jar`.
 
 ## License
 
-CC0
+MIT
