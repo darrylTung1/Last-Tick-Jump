@@ -2,7 +2,7 @@
   "required": true,
   "package": "com.darryl.lasttickjump.mixin",
   "compatibilityLevel": "JAVA_17",
-  "refmap": "modid-refmap.json",
+  "refmap": "lasttickjump-refmap.json",
   "client": [
     "KeyboardInputMixin",
     "LivingEntityMixin"
