@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "id": "autojump",
+  "id": "lasttickjump",
   "version": "${version}",
-  "name": "AutoJump",
+  "name": "Last Tick Jump",
   "description": "Last-tick edge jump optimizer for parkour",
   "authors": ["Darryl"],
   "environment": "client",
   "entrypoints": {
-    "client": ["com.darryl.autojump.AutoJumpMod"]
+    "client": ["com.darryl.lasttickjump.LastTickJumpMod"]
   },
-  "mixins": ["autojump.mixins.json"],
+  "mixins": ["lasttickjump.mixins.json"],
   "depends": {
     "fabricloader": ">=0.15.0",
     "fabric-api": "*",
