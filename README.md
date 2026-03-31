@@ -1,4 +1,4 @@
-# AutoJump Mod
+# Last Tick Jump
 
 A Fabric client-side mod for Minecraft 1.20.1 that automatically jumps at the last tick before the player walks off an edge while sprinting. Designed for parkour to optimize edge jumps without manual timing.
 
@@ -27,7 +27,7 @@ A Fabric client-side mod for Minecraft 1.20.1 that automatically jumps at the la
 ./gradlew build
 ```
 
-The output JAR will be at `build/libs/modid-1.0.0.jar`.
+The output JAR will be at `build/libs/lasttickjump-1.0.0.jar`.
 
 ## License
 
