@@ -6,9 +6,13 @@ build/
 .idea/
 *.iml
 .vscode/
+bin/
 
 # Fabric Loom cache
 .loom/
+
+# Mod run directory (game data, logs, saves)
+run/
 
 # OS
 .DS_Store
